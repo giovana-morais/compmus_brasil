@@ -12,6 +12,8 @@ relevante!
   Gerais (UFMG)
 * [COMPMUS](https://compmus.ime.usp.br/pt-br/) - Universidade de São Paulo (USP)
 * [GPA (Grupo de Processamento de Áudio)](https://www.smt.ufrj.br/index.php/pt/) - Universidade Federal do Rio de Janeiro (UFRJ)
+* [LAPPSO (Laboratório de Pesquisa e Produção Sonora)](http://www.dmc.uem.br/lappso/lappso/projetos/computacao-musical) -
+  Universidade Estadual de Maringá
 * [Onloop](https://www.ppgia.pucpr.br/pt/?q=node/241) - Pontifícia Universidade Católica do Paraná (PUCPR)
 
 # Eventos
