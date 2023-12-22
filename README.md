@@ -13,7 +13,9 @@ relevante!
 * [COMPMUS](https://compmus.ime.usp.br/pt-br/) - Universidade de São Paulo (USP)
 * [GPA (Grupo de Processamento de Áudio)](https://www.smt.ufrj.br/index.php/pt/) - Universidade Federal do Rio de Janeiro (UFRJ)
 * [LAPPSO (Laboratório de Pesquisa e Produção Sonora)](http://www.dmc.uem.br/lappso/lappso/projetos/computacao-musical) -
-  Universidade Estadual de Maringá
+  Universidade Estadual de Maringá (UEM)
+* [MusTIC](https://mustic.cin.ufpe.br/) - Universidade Federal de Pernambuco
+  (UFPE)
 * [Onloop](https://www.ppgia.pucpr.br/pt/?q=node/241) - Pontifícia Universidade Católica do Paraná (PUCPR)
 
 # Eventos
@@ -24,3 +26,6 @@ relevante!
 # Materiais
 * [Arquivo do SBCM](https://compmus.ime.usp.br/sbcm/): tem a lista de todos
   os artigos já publicados na conferência gratuitamente para download.
+* [Introdução a Computação
+  Musical](https://github.com/mustic-cin/computacao-musical-ufpe): repositório
+  do curso de computação musical da UFPE.
