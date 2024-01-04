@@ -16,6 +16,7 @@ relevante!
   Universidade Estadual de Maringá (UEM)
 * [MusTIC](https://mustic.cin.ufpe.br/) - Universidade Federal de Pernambuco
   (UFPE)
+* [NICS (Núcleo Interdisciplinar de Comunicação Sonora)](https://www.nics.unicamp.br/) - Universidade Estadual de Campinas (Unicamp)
 * [NuSom (Núcleo de Pesquisas em Sonologia)](https://nusom.eca.usp.br/) - Universidade de São Paulo
 * [Onloop](https://www.ppgia.pucpr.br/pt/?q=node/241) - Pontifícia Universidade Católica do Paraná (PUCPR)
 
