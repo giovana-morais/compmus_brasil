@@ -27,8 +27,11 @@ relevante!
 * [LAMIR](https://lamir-workshop.github.io): O Latin America Music Information Retrieval é um evento satélite da ISMIR e parte da KHIPUx focado em trabalhos de membros da comunidade latino-americana e com foco em repertórios latino-americanos.
 
 # Materiais
+## Artigos
 * [Arquivo do SBCM](https://compmus.ime.usp.br/sbcm/): tem a lista de todos
   os artigos já publicados na conferência gratuitamente para download.
-* [Introdução a Computação
-  Musical](https://github.com/mustic-cin/computacao-musical-ufpe): repositório
-  do curso de computação musical da UFPE.
+
+## Cursos
+* [Introdução a Computação Musical - UFPE](https://github.com/mustic-cin/computacao-musical-ufpe)
+* [Recuperação de Informação Musical - DCC/UFMG (código)](https://github.com/flaviovdf/musica)
+* [Recuperação de Informação Musical - DCC/UFMG (slides)](https://drive.google.com/drive/folders/1BTbgNaug9_yWKavxnnR2IrEVgoU3BLxC)
