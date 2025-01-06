@@ -35,3 +35,7 @@ relevante!
 * [Introdução a Computação Musical - UFPE](https://github.com/mustic-cin/computacao-musical-ufpe)
 * [Recuperação de Informação Musical - DCC/UFMG (código)](https://github.com/flaviovdf/musica)
 * [Recuperação de Informação Musical - DCC/UFMG (slides)](https://drive.google.com/drive/folders/1BTbgNaug9_yWKavxnnR2IrEVgoU3BLxC)
+
+# Software
+* [TiLiA - UFRJ](https://tilia-app.com/)
+* [Zarlino - UFBA](https://zsuite.sampaio.me/pt-br/)
