@@ -37,5 +37,5 @@ relevante!
 * [Recuperação de Informação Musical - DCC/UFMG (slides)](https://drive.google.com/drive/folders/1BTbgNaug9_yWKavxnnR2IrEVgoU3BLxC)
 
 # Software
-* [TiLiA (Felipe Martins - UFRJ)](https://github.com/TimeLineAnnotator/desktop)
-* [Zarlino (Marcos Sampaio - UFBA)](https://marcos.sampaio.me/project/zarlino/)
+* [TiLiA - UFRJ](https://tilia-app.com/)
+* [Zarlino - UFBA](https://zsuite.sampaio.me/pt-br/)
