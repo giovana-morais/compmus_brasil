@@ -25,6 +25,7 @@ relevante!
 * [Simpósio Brasileiro de Computação Musical (SBCM)](https://www.sbc.org.br/2-uncategorised/1811-sbcm-simposio-brasileiro-de-computacao-musical): Evento bianual com o objetivo de compartilhar ideias sobre desenvolvimentos recentes nos campos das aplicações de tecnologia em composição musical, processamento de som e música, recuperação de informações de música, musicologia computacional, desempenho multimídia e muitas outras coisas relacionadas à arte, ciência e tecnologia.
 * [LatAm BISH Bash](https://www.meetup.com/pt-BR/bish-bash-latam/events/): Encontros informais para reunir a comunidade latino-americana de pesquisadores, profissionais da indústria e estudantes com um interesse particular em aplicações de áudio e música. Os eventos acontecem em **inglês**.
 * [LAMIR](https://lamir-workshop.github.io): O Latin America Music Information Retrieval é um evento satélite da ISMIR e parte da KHIPUx focado em trabalhos de membros da comunidade latino-americana e com foco em repertórios latino-americanos.
+* [Agregado dos prazos conferências focadas em MIR](https://www.audiocontentanalysis.org/conferences/?sub=ML%2CMU%2CAU%2CSP): Site (em inglês) com prazos pra conferências relevantes de MIR e áudio.
 
 # Materiais
 ## Artigos
